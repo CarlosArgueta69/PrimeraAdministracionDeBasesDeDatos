@@ -24,3 +24,9 @@ Para creación y administración la base de datos se utilicé la siguiente herra
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+
+
+
+>  *"Si haces lo que todo el mundo hace, vas a terminar donde está todo el mundo."*
+> *"LLADOS FITNES"*
+
