@@ -1,12 +1,15 @@
 # PrimeraAdministracionDeBasesDeDatos
 
-# 👟 ¡Hola! Bienvenido a mi repositorio
+---
+
+
+# ¡Hola! Bienvenido a mi repositorio
 
 Este proyecto consiste en el diseño y administración de una **Base de Datos relacional para la Zapatería_Elnaves**. Está desarrollado como parte de mis prácticas de desarrollo de software para gestionar de manera eficiente el inventario, los productos y el control de ventas del negocio en el día a día.
 
 ---
 
-## 🚀 Características del Proyecto
+## Características del Proyecto
 
 * **Gestión de Inventario:** Control estricto de existencias (stock) de calzado por modelo, talla y el precio.
 * **Administración de Productos:** Registro de marcas, categorías si este es deportivo, formal, casual.
@@ -14,7 +17,7 @@ Este proyecto consiste en el diseño y administración de una **Base de Datos re
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 Para creación y administración la base de datos se utilicé la siguiente herramienta:
 
