@@ -2,9 +2,6 @@
 
 ---
 
-
-# ¡Hola! Bienvenido a mi repositorio
-
 Este proyecto consiste en el diseño y administración de una **Base de Datos relacional para la Zapatería_Elnaves**. Está desarrollado como parte de mis prácticas de desarrollo de software para gestionar de manera eficiente el inventario, los productos y el control de ventas del negocio en el día a día.
 
 ---
